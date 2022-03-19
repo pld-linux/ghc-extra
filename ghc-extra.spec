@@ -6,7 +6,7 @@
 Summary:	Extra functions I use
 Name:		ghc-%{pkgname}
 Version:	1.7.1
-Release:	1
+Release:	2
 License:	LGPL
 Group:		Development/Languages
 #Source0Download: http://hackage.haskell.org/package/extra
